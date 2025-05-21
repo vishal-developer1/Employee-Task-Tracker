@@ -1,10 +1,6 @@
 # EmployeeTaskTracker
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.8.
 
-# Employee Task Tracker
-
-An Angular application for managing employee tasks with conditional styling based on task priority.
-
 ## 🛠 Features
 
 - Add tasks with:
